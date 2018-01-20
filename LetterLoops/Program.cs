@@ -10,6 +10,8 @@ namespace LetterLoops
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Type abcd");
+            Console.ReadLine();
         }
     }
 }
